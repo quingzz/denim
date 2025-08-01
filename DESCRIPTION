@@ -4,12 +4,9 @@ Title: Generate and Simulate Deterministic Compartmental Models
 Version: 1.2.1.9000
 Date: 2025-06-02
 Authors@R: c(
-    person("Thinh", "Ong", , "thinhop@oucru.org", role = c("aut", "cph"),
-           comment = c(ORCID = "0000-0001-6772-9291")),
-    person("Anh", "Phan", , "anhptq@oucru.org", role = c("aut", "cre"),
-           comment = c(ORCID = "0009-0000-2129-435X")),
-    person("Marc", "Choisy", , "mchoisy@oucru.org", role = "aut",
-           comment = c(ORCID = "0000-0002-5187-6390")),
+    person("Thinh", "Ong", , "thinhop@oucru.org", role = c("aut", "cph")),
+    person("Anh", "Phan", , "anhptq@oucru.org", role = c("aut", "cre")),
+    person("Marc", "Choisy", , "mchoisy@oucru.org", role = "aut"),
     person("Niels", "Lohman", ,role = "ctb"),
     person("Bjoern", "Hoehrmann", ,email = "bjoern@hoehrmann.de", role = "ctb"),
     person("Florian", "Loitsch", ,role = "ctb"),
